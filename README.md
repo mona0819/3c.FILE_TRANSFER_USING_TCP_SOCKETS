@@ -68,7 +68,9 @@ print('connection closed')
 ```
 ## OUPUT
 server.py
-<img width="936" height="152" alt="image" src="https://github.com/user-attachments/assets/3ba67402-3e6a-453e-98d9-42584a8b27db" />
+
+<img width="886" height="96" alt="image" src="https://github.com/user-attachments/assets/8067e132-7662-42d9-b60e-f4450d51e658" />
+
 client.py
 
 <img width="1000" height="227" alt="image" src="https://github.com/user-attachments/assets/71edf172-2936-4b6e-9e45-06750a3285d3" />
